@@ -45,9 +45,8 @@
 
 # Project Description
 
-A way for people to gather, collect and stay in contact with people that you meet.
-
-To make the social and connecting effortless, seamless and fun to do. To give courage and ability to less outgoing people to connect and network more comfortably. To unify the social and personal networking aspect of everyday events. Events meaning any time, place, & circumstance.
+A way for people to gather, collect and stay in contact with people that you meet. 
+Swaap makes connecting effortless, seamless and fun to do. Our goal is to give courage to less outgoing people to connect and network more comfortably and to unify the social and personal networking aspect of everyday events. 
 
 ## Key Features
 
